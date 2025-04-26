@@ -1,0 +1,11 @@
+fastapi
+python-dotenv
+streamlit
+pymupdf
+openai
+plotly
+matplotlib
+seaborn
+uv
+uvicorn
+fastmcp
